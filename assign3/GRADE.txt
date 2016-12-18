@@ -1,0 +1,4 @@
+Paige,
+    Nice solution for assignment 3.
+
+GRADE:  50/50

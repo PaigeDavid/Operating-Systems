@@ -1,0 +1,8 @@
+Paige,
+   Nice assignment 1.  
+
+   1) Good to see you free() what you malloc().  Many in class forgot
+   to perform the free().
+
+GRADE: 100/100
+
